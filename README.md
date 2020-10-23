@@ -2,6 +2,7 @@
 # berkabank
 
 <!-- badges: start -->
+[![R build status](https://github.com/quantargo/berkabank/workflows/R-CMD-check/badge.svg)](https://github.com/quantargo/berkabank/actions)
 <!-- badges: end -->
 
 The goal of berkabank is to ...
